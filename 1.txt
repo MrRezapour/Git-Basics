@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-1 in branch master
-=======
-1 in branch b2
->>>>>>> b2
